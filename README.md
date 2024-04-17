@@ -1,3 +1,24 @@
+# Gesture Control Unreal Engine
+This repository demos how to integrate Google MediaPipe hands gesture module with Unreal Engine
+The environments I use:
+Python 3.11
+Google Mediapipe
+Unreal Engine 5.3
+Chaos Cloth Plugin
+
+# How to use:
+With the Unreal project running
+cd you\local\path\PythonScripts
+Run:
+python.exe GestureToUE
+
+# Notes:
+I developed the TCP communication module with reference on Unreal Forum
+the IP and port hard coded in 127.0.0.1 port: 27015
+
+Check the demo video here
+https://youtu.be/8T3Aph6KUPo
+
 # GestureControlUnrealEngine
  Powered by Google Mediapipe
 
