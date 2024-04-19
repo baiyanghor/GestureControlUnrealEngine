@@ -1,5 +1,6 @@
 # Gesture Control Unreal Engine
   This repository demos how to integrate Google MediaPipe hands gesture module with Unreal Engine
+![2024-02-03 15-05-32 mp4_20240419_122453 730](https://github.com/baiyanghor/GestureControlUnrealEngine/assets/22685081/a608b058-aa1a-45b4-ab7c-98546dc71258)
 
 # The environments I use:
   Python 3.11
